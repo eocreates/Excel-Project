@@ -103,8 +103,8 @@ Channel Percentage
   - Analyze underperforming regions for logistics or pricing barriers
 
  * Seasonal Strategy
-  - Target peak months (May, July, November)
-  - Boost weekend promotions (Saturday highest profit day)
+   - Target peak months (May, July, November)
+   - Boost weekend promotions (Saturday highest profit day)
 
 * Sales Channel Strategy
   - Increase investment in the Online channel
