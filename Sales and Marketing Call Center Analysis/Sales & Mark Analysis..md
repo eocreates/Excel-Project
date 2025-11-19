@@ -9,7 +9,7 @@
   * [Data Cleaning](#Data-Cleaning)
   * [Analysis](#Analysis)
   * [Dashboard](#Dashboard)
-  * [Recommendations](#Recommendation)
+  * [Recommendations](#Recommendations)
 
 ## Project Overview
 This project presents an interactive Power BI dashboard designed to help Sales & Marketing Call Center teams track performance metrics, understand customer behavior, and evaluate agent effectiveness.
