@@ -11,5 +11,5 @@ My work demonstrates proficiency in formulas, Power Query, and VBA  with a stron
 
 * [Sales and Marketing Call Center Analysis](https://github.com/eocreates/Excel-Project/blob/main/Sales%20and%20Marketing%20Call%20Center%20Analysis/Sales%20%26%20Mark%20Analysis..md)
 
-* Adventure Works Sales Analysis 
+* [Adventure Works Sales Analysis](https://github.com/eocreates/Excel-Project/blob/main/Adventure%20Works%20Sales%20Analysis/Adventure%20Works..md)
 
