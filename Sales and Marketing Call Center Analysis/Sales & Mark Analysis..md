@@ -125,29 +125,20 @@ Total_Calls = COUNTIF(Month_Column, Month)
 `````
 
 7. Dashboard
- 
+ <a href="https://github.com/eocreates/Excel-Project/blob/main/Sales%20and%20Marketing%20Call%20Center%20Analysis/Sales.png">
+  <img src="https://github.com/eocreates/Excel-Project/blob/main/Sales%20and%20Marketing%20Call%20Center%20Analysis/Sales.png" width="1000">
+</a>
 
 
 8. RECOMMENDATIONS
-⭐ 1. Reduce Long Wait Times
-
-Since long wait time is a major abandonment reason, improve staffing during peak periods.
-
-⭐ 2. Improve Underperforming Agents
-
-Agents with low success rates or poor ratings need coaching.
-
-⭐ 3. Focus on High-Call Regions
-
-Regions like London, Manchester, and West Midlands require optimal resource allocation.
-
-⭐ 4. Enhance Technical Stability
-
-Technical issue–related abandonment needs IT evaluation.
-
-⭐ 5. Monitor Product Inquiry Patterns
-
-Products with high failure rates (e.g., Loans, Internet Packages) may require script updates.
+* Reduce Long Wait Times
+ - Since long wait time is a major abandonment reason, improve staffing during peak periods.
+* Improve Underperforming Agents
+ - Agents with low success rates or poor ratings need coaching.
+* Enhance Technical Stability
+ - Technical issue–related abandonment needs IT evaluation.
+* Monitor Product Inquiry Patterns
+ - Products with high failure rates (e.g., Loans, Internet Packages) may require script updates.
 
 
 
