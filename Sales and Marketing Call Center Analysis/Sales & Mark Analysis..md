@@ -124,13 +124,13 @@ Month,
 Total_Calls = COUNTIF(Month_Column, Month)
 `````
 
-7. Dashboard
+##  Dashboard
  <a href="https://github.com/eocreates/Excel-Project/blob/main/Sales%20and%20Marketing%20Call%20Center%20Analysis/Sales.png">
   <img src="https://github.com/eocreates/Excel-Project/blob/main/Sales%20and%20Marketing%20Call%20Center%20Analysis/Sales.png" width="1000">
 </a>
 
 
-8. RECOMMENDATIONS
+## RECOMMENDATIONS
 * Reduce Long Wait Times
  - Since long wait time is a major abandonment reason, improve staffing during peak periods.
 * Improve Underperforming Agents
