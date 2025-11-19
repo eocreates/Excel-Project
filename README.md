@@ -9,7 +9,7 @@ My work demonstrates proficiency in formulas, Power Query, and VBA  with a stron
 
 ⚙ Key Features of My Excel Projects:
 
-[* Sales and Marketing Call Center Analysis](https://github.com/eocreates/Excel-Project/blob/main/Sales%20and%20Marketing%20Call%20Center%20Analysis/Sales%20%26%20Mark%20Analysis..md)
+* [Sales and Marketing Call Center Analysis](https://github.com/eocreates/Excel-Project/blob/main/Sales%20and%20Marketing%20Call%20Center%20Analysis/Sales%20%26%20Mark%20Analysis..md)
 
 * Adventure Works Sales Analysis 
 
