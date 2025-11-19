@@ -4,13 +4,13 @@ Adventure Works
 A professional and interactive Excel dashboard designed to analyze Adventure Works’ sales performance, product profitability, regional market trends, and customer purchasing behavior across four years of transactional data.
 
 ## Table of Contents
-* Project Overview
-* Context and Problem
-* Dataset Description
-* Data Cleaning
-* Analysis
-* Dashboard
-* Recommendations
+* [Project Overview](#Project-Overview)
+* [Context and Problem](#Context-and-Problem)
+* [Dataset Description](#Dataset-Description)
+* [Data Cleaning](#Data-Cleaning)
+* [Analysis](#Analysis)
+* [Dashboard](#Dashboard)
+* [Recommendations](#Recommendations)
 
 ## Project Overview
 This project presents a comprehensive sales and profit analysis based on four years of transactional data from the Adventure Works dataset.
