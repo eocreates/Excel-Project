@@ -4,12 +4,12 @@
 
 ## Table of Contents
   * [Project Overview](#Project-Overview)
-  * Context and Problem
-  * Dataset Description
-  * Data Cleaning
-  * Analysis
-  * Dashboard
-  * Recommendations
+  * [Context and Problem](#Context-and-Problem)
+  * [Dataset Description](#Dataset-Description)
+  * [Data Cleaning](#Data-Cleaning)
+  * [Analysis](#Analysis)
+  * [Dashboard](#Dashboard)
+  * [Recommendations](#Recommendation)
 
 ## Project Overview
 This project presents an interactive Power BI dashboard designed to help Sales & Marketing Call Center teams track performance metrics, understand customer behavior, and evaluate agent effectiveness.
@@ -31,7 +31,7 @@ Leaders needed a dashboard that transforms raw call data into clear operational 
 This project uses a structured dataset extracted from the call center’s daily operational logs.[ Download here](https://github.com/eocreates/Excel-Project/blob/main/Sales%20and%20Marketing%20Call%20Center%20Analysis/Dataset%20Sales%20and%20Marketing%20Call%20Center.xlsx)
 The dataset serves as the foundation for all analysis, KPIs, and dashboard visualizations.
 
-## DATA CLEANING
+## Data Cleaning
 The following steps were applied before analysis:
 * Standardized Category Values
  - Regions (e.g., “London” vs “london”)
@@ -47,7 +47,7 @@ The following steps were applied before analysis:
  - Outcome_Flag = IF(Call_Outcome="Successful",1,0)
  - Time Slot = IF(HOUR(Time)<12,"Morning",IF(HOUR(Time)<17,"Afternoon","Evening"))
 
-## ANALYSIS
+## Analysis
 The Analysis sheet computes all KPIs used in the dashboard.
 Below are the major analytical components:
 
