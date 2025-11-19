@@ -3,7 +3,7 @@
  A professional and interactive Excel dashboard for analyzing call center performance, agent activity, and customer behavior.
 
 ## Table of Contents
-  * [Project Overview](# Project-Overview)
+  * [Project Overview](#Project-Overview)
   * Context and Problem
   * Dataset Description
   * Data Cleaning
